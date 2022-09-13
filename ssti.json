@@ -2,14 +2,15 @@
 {
 "flags": "-iE",
 "patterns": [
-
-"template=",
-"preview=",
-"id=",
-"view=",
-"activity=",
-"name=",
-"content=",
-"redirect="
+"(&|\\?)message=",
+"(&|\\?)page=",
+"(&|\\?)template=",
+"(&|\\?)preview=",
+"(&|\\?)id=",
+"(&|\\?)view=",
+"(&|\\?)activity=",
+"(&|\\?)name=",
+"(&|\\?)content=",
+"(&|\\?)redirect="
 ]
 }

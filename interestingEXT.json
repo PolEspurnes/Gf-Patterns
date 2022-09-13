@@ -18,6 +18,7 @@
 "\\.cgi",
 "\\.cnf",
 "\\.conf",
+"\\.git",
 "\\.config",
 "\\.crt",
 "\\.csr",
